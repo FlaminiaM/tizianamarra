@@ -1,10 +1,13 @@
-
+@use './functions' as *;
 //Font
 $primary-font: "Poppins", serif;
 
 //Colors
 $blue: #003A5D;
+$blue90Opacity: rgba(0, 58, 92, 0.90);
 $lightBlue: #267CC0;
+$white: #FFFFFF;
+$black: #000000;
 
 
 
